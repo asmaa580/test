@@ -4,10 +4,7 @@
  */
 package com.mycompany.mavenproject1;
 
-/**
- *
- * @author MALAK
- */
+
 public class EmployeeUserr {
     
     private String employeeId;
